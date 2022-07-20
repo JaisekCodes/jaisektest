@@ -1,0 +1,312 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Courgette&family=Montserrat:wght@400;600&family=Permanent+Marker&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500;1,600&family=Shadows+Into+Light&display=swap');
+
+@media all and (max-width: 1920px) and (min-width: 1505px){
+    * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+li, a {
+    font-family: 'poppins';
+    font-weight: 8400;
+    font-size: 1.15rem;
+    color: #0a0a0a;
+    text-decoration: none;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 0%;
+    max-height: 11rem;
+    background-color: #fefefe;
+}
+.nav-links {
+    list-style: none;
+    align-items: center;
+    margin-right: 8rem;
+}
+.nav-links li {
+    display: inline-block;
+    padding: 10px 4.5rem;
+    margin-right: 3rem;
+}
+.nav-links li a {
+    transition: all 0.6s ease 0s;
+}
+.nav-links li a:hover {
+    color: rgba(255, 0, 0, 0.815);
+}
+.pic {
+    max-width: 300px;
+    margin-bottom: 4.1rem;
+    margin-left: 2rem
+}
+h1 {
+    font-family: 'poppins';
+    font-weight: 8400;
+    font-size: 1.15rem;
+    color: #0a0a0a;
+    text-decoration: none;
+}
+h2 {
+    font-family: 'poppins';
+    font-weight: 8400;
+    font-size: 1.15rem;
+    color: #0a0a0a;
+    text-decoration: none;
+}
+#mainstuff {
+    text-align: center;
+    margin: auto;
+    margin-top: 5rem;
+}
+}
+@media all and (max-width: 1505px) and (min-width: 1375px){
+    * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+li, a {
+    font-family: 'poppins';
+    font-weight: 8400;
+    font-size: 1.15rem;
+    color: #0a0a0a;
+    text-decoration: none;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 0%;
+    max-height: 11rem;
+    background-color: #fefefe;
+}
+.nav-links {
+    list-style: none;
+    align-items: center;
+    
+}
+.nav-links li {
+    display: inline-block;
+    padding: 10px 4.5rem;
+    margin-right: 3rem;
+}
+.nav-links li a {
+    transition: all 0.6s ease 0s;
+}
+.nav-links li a:hover {
+    color: rgba(255, 0, 0, 0.815);
+}
+.pic {
+    max-width: 300px;
+    margin-bottom: 4.1rem;
+    margin-left: 2rem
+}
+h1 {
+    font-family: 'poppins';
+    font-weight: 8400;
+    font-size: 1.15rem;
+    color: #0a0a0a;
+    text-decoration: none;
+}
+h2 {
+    font-family: 'poppins';
+    font-weight: 8400;
+    font-size: 1.15rem;
+    color: #0a0a0a;
+    text-decoration: none;
+}
+#mainstuff {
+    text-align: center;
+    margin: auto;
+    margin-top: 5rem;
+}
+}
+
+@media all and (max-width: 1375px) and (min-width: 1083px){
+    * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+li, a {
+    font-family: 'poppins';
+    font-weight: 8400;
+    font-size: 1.15rem;
+    color: #0a0a0a;
+    text-decoration: none;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 0%;
+    max-height: 11rem;
+    background-color: #fefefe;
+}
+.nav-links {
+    list-style: none;
+    align-items: center;
+    
+}
+.nav-links li {
+    display: inline-block;
+    padding: 10px 4.5rem;
+    margin-right: 0rem;
+}
+.nav-links li a {
+    transition: all 0.6s ease 0s;
+}
+.nav-links li a:hover {
+    color: rgba(255, 0, 0, 0.815);
+}
+.pic {
+    max-width: 200px;
+    margin-bottom: 2.4rem;
+    margin-left: 2rem
+}
+h1 {
+    font-family: 'poppins';
+    font-weight: 8400;
+    font-size: 1.15rem;
+    color: #0a0a0a;
+    text-decoration: none;
+}
+h2 {
+    font-family: 'poppins';
+    font-weight: 8400;
+    font-size: 1.15rem;
+    color: #0a0a0a;
+    text-decoration: none;
+}
+#mainstuff {
+    text-align: center;
+    margin: auto;
+    margin-top: 5rem;
+}
+}
+@media all and (max-width: 1083px) and (min-width: 825px) {
+    * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+li, a {
+    font-family: 'poppins';
+    font-weight: 8400;
+    font-size: 1rem;
+    color: #0a0a0a;
+    text-decoration: none;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 0%;
+    max-height: 11rem;
+    background-color: #fefefe;
+}
+.nav-links {
+    list-style: none;
+    align-items: center;
+    
+}
+.nav-links li {
+    display: inline-block;
+    padding: 10px 4.5rem;
+    margin-right: -3rem;
+}
+.nav-links li a {
+    transition: all 0.6s ease 0s;
+}
+.nav-links li a:hover {
+    color: rgba(255, 0, 0, 0.815);
+}
+.pic {
+    max-width: 200px;
+    margin-bottom: 3.1rem;
+}
+h1 {
+    font-family: 'poppins';
+    font-weight: 8400;
+    font-size: 1.15rem;
+    color: #0a0a0a;
+    text-decoration: none;
+}
+h2 {
+    font-family: 'poppins';
+    font-weight: 8400;
+    font-size: 1.15rem;
+    color: #0a0a0a;
+    text-decoration: none;
+}
+#mainstuff {
+    text-align: center;
+    margin: auto;
+    margin-top: 5rem;
+}
+}
+@media all and (max-width: 825px) {
+    * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+li, a {
+    font-family: 'poppins';
+    font-weight: 8400;
+    font-size: 0.8rem;
+    color: #0a0a0a;
+    text-decoration: none;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 0%;
+    max-height: 11rem;
+    background-color: #fefefe;
+}
+.nav-links {
+    list-style: none;
+    align-items: center;
+    
+}
+.nav-links li {
+    display: inline-block;
+    padding: 10px 4.5rem;
+    margin-left: 10rem;
+}
+.nav-links li a {
+    transition: all 0.6s ease 0s;
+}
+.nav-links li a:hover {
+    color: rgba(255, 0, 0, 0.815);
+}
+.pic {
+    max-width: 200px;
+    margin-bottom: 3.1rem;
+    margin-left:
+}
+h1 {
+    font-family: 'poppins';
+    font-weight: 8400;
+    font-size: 1.15rem;
+    color: #0a0a0a;
+    text-decoration: none;
+}
+h2 {
+    font-family: 'poppins';
+    font-weight: 8400;
+    font-size: 1.15rem;
+    color: #0a0a0a;
+    text-decoration: none;
+}
+#mainstuff {
+    text-align: center;
+    margin: auto;
+    margin-top: 5rem;
+}
+}
